@@ -1,0 +1,49 @@
+.container{
+
+/*background-color: blueviolet;*/
+height: 250px;
+width: 100%;
+
+}
+
+
+
+
+
+.items{
+
+width: 80%;
+height: 100%;
+/*background-color: brown;*/
+margin: auto;
+margin-left: 120px;
+
+}
+
+
+.item{
+
+width: 15%;
+height: 50%;
+/*background-color: aqua;*/
+border: 1px solid whitesmoke;
+float: left;
+
+}
+
+
+
+.item img{
+
+height: 100%;
+width: 100%;
+
+}
+
+
+.title{
+width: 100%;
+margin: auto;
+text-align: center;    
+}
+
